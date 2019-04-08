@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Pokemon
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Pokemon\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=name\ primaryType
+comment1.target=Pokemon(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=int\ useAttack()
+comment4.params=
+comment4.target=void\ healToFull()
+comment5.params=amount
+comment5.target=void\ dealDamage(int)
+comment6.params=
+comment6.target=int\ getHealth()
+numComments=7

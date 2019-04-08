@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=DualTypePokemon
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ DualTypePokemon\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=name\ primaryType\ secondaryType
+comment1.target=DualTypePokemon(java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=2
